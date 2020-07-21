@@ -3,6 +3,7 @@
 [![Latest Version](https://img.shields.io/github/v/release/kiwfy/ulid-php.svg?style=flat-square)](https://github.com/kiwfy/ulid-php/releases)
 [![Build Status](https://img.shields.io/github/workflow/status/kiwfy/ulid-php/CI?label=ci%20build&style=flat-square)](https://github.com/kiwfy/ulid-php/actions?query=workflow%3ACI)
 [![Total Downloads](https://img.shields.io/packagist/dt/kiwfy/ulid-php.svg?style=flat-square)](https://packagist.org/packages/kiwfy/ulid-php)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 PHP library to create a ULID value
 
